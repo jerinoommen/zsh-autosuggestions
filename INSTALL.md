@@ -41,6 +41,7 @@
     ```sh
     plugins=(zsh-autosuggestions)
     ```
+    ** If you are using iTerm, make sure to remove git from plugins.
 
 3. Start a new terminal session.
 
